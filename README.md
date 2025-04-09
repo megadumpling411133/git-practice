@@ -1,2 +1,2 @@
-# -git-practice
+# git-practice
 This is a git practice record
