@@ -1,1 +1,3 @@
 Hello Git!!
+This is remote (github git-practice)master
+Edited from GitHub!
