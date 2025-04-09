@@ -1,2 +1,1 @@
-Hello Gitls -al
-This id a confilict change.
+Hello Git!!
